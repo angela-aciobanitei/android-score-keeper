@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scores</string>
+    <string name="team_a">Team A</string>
+    <string name="initial_score">0</string>
+    <string name="touchdown">touchdown</string>
+    <string name="field_goal">field goal</string>
+    <string name="plus_2_points">+2 points</string>
+    <string name="plus_1_point">+1 point</string>
+    <string name="team_b">Team B</string>
+    <string name="reset_button">reset</string>
+</resources>
